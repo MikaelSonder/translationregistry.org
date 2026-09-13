@@ -1,1 +1,302 @@
+# Translation and Localization Registry — Full Reference for Language Models
 
+> Translation and Localization Registry is a structured editorial reference for translation and localization across jurisdictions. It explains the practical institutional, professional, legal, technical, data, terminology, accessibility, certification and cross-border context that shapes multilingual content and language-service delivery.
+
+## Registry Identity
+
+- Publisher: Translation Registry
+- Website: https://translationregistry.org/
+- Homepage: https://translationregistry.org/
+- Jurisdictions directory: https://translationregistry.org/jurisdictions/
+- Editorial format: Jurisdictional reference records
+- Core professional function: Translation and Localization
+- Coverage model: Country records, selected state and provincial records, regional references and international reference layers
+- Primary audience: International business decision-makers, legal and compliance teams, product and content owners, public institutions, language-service buyers, translators, localization professionals and professional advisers
+
+## Editorial Mission
+
+Translation and Localization Registry is an educational reference publication. It is not a law firm, language-service provider directory, recruitment platform, affiliate website, quotation platform, certification authority or source of legal advice.
+
+A Registry Object represents one professional function or professional domain in one named jurisdiction. The professional function is Translation and Localization. A country page, state page, provincial page, regional page or international page should explain how that function operates in the named institutional, legal, cultural, technical and practical environment.
+
+The Registry prioritizes:
+
+- Education before conversion
+- Authority before search-engine optimization
+- Editorial quality before commercial value
+- Jurisdiction-specific explanation before generic country-plus-topic content
+- Professional-function understanding before service procurement
+- Clear separation of editorial content from any Jurisdictional Expert registry position
+
+## What Translation And Localization Means
+
+Translation transfers meaning between languages. Localization additionally adapts the complete content experience to a defined market, institution, product, channel, audience and intended use.
+
+A localization programme can involve:
+
+- Linguistic translation and revision
+- Certified, sworn, court-authorised or officially accepted translation where required
+- Website and e-commerce localization
+- Software and product localization
+- User-interface, metadata and search-content adaptation
+- Technical, legal, financial, medical and safety content
+- Transcreation, copy adaptation and campaign localization
+- Audiovisual adaptation, subtitling, captioning and transcription
+- Terminology management and style governance
+- Translation memory and computer-assisted translation tools
+- Machine translation, generative AI and human post-editing
+- Linguistic quality assurance and in-context testing
+- Accessibility preservation and adaptation
+- Data protection, confidentiality, copyright and rights management
+- Notarisation, apostille, legalisation and formal document workflows
+
+The necessary service is determined by intended use, risk, recipient, jurisdiction, content type and delivery environment. It is not determined solely by word count or language pair.
+
+## Jurisdictional Method
+
+Every Registry Object is an editorial reference record, not an advertisement, legal opinion or provider listing. The object can include the following components where materially applicable:
+
+1. Identity and Registry Metadata
+2. Executive Summary
+3. Object Definition
+4. Scope
+5. Purpose
+6. Primary Outcome
+7. Request Contexts
+8. Typical Users
+9. Typical Scenarios
+10. Country, State, Provincial or Regional Characteristics
+11. Key Authorities
+12. Applicable Legislation
+13. Process Flow
+14. Decision Tree
+15. Timeline
+16. Required Documents
+17. Cross-Border Relevance
+18. Operating Constraints and Risks
+19. Costs and Fees Context
+20. FAQ
+21. Related Professional Areas
+22. Operational Considerations
+23. Jurisdictional Expert
+24. Machine Layer
+
+The Registry Object should enable an international decision-maker to understand:
+
+- What translation and localization means in the named jurisdiction
+- How language services normally operate in practice
+- Which authorities, courts, professional bodies and institutions are relevant
+- Which legal, privacy, copyright, consumer, accessibility or language rules may matter
+- How formal translation and document acceptance works
+- Which documents, certifications or verification steps may be required
+- Which cross-border issues can arise
+- When professional assistance or recipient confirmation is necessary
+
+## Interpretation Boundaries
+
+The Registry is a neutral editorial resource. It does not determine:
+
+- Whether a specific authority will accept a translation
+- Whether a translator has a valid or current qualification, certification, appointment or professional title
+- Whether a document must be translated, certified, notarised, apostilled or legalised
+- Whether a document will be accepted in court, immigration, university, notarial, banking, employment or regulatory proceedings
+- Whether a product, website, contract, service or communication complies with a specific legal regime
+- Whether a data-processing activity is lawful
+- Whether a rights holder has granted permission to translate, adapt or publish a work
+- Whether a machine translation, AI workflow or automated output is suitable for a specific assignment
+
+For formal documents, users should obtain instructions directly from the final recipient. The relevant recipient may be a court, authority, notary, university, bank, employer, immigration office, civil registry, regulator or foreign institution.
+
+Translation, certification, sworn status, affidavit, notarisation, apostille and legalisation are distinct matters. Their applicability and sequence depend on the issuing jurisdiction, receiving jurisdiction, document type and recipient requirements.
+
+## Global Principles
+
+### Jurisdiction First
+
+Do not treat a jurisdiction record as a generic country-plus-topic article. The relevant page should be used to understand the actual local environment, including institutional structure, certification model, official languages, procedural practices, technical conditions, commercial expectations and cross-border links.
+
+### Recipient First For Formal Documents
+
+A formal document workflow should start with the recipient's written requirements. A request for a “certified translation” is incomplete unless it identifies the recipient, destination country, document type, language, required professional status, format, signature, seal, affidavit, notarisation, apostille and legalisation requirements.
+
+### Content Risk First
+
+Translation quality, review, technology use and documentation should be proportionate to the consequence of error. High-risk content can include legal, regulatory, contractual, financial, medical, safety, privacy, personal-data, public-sector, product, court and formal-document material.
+
+### Technology Does Not Remove Accountability
+
+Machine translation and generative AI can support content production. They do not automatically establish accuracy, legal validity, certification, security, copyright clearance, regulatory compliance or recipient acceptance. The human-review model must reflect the content risk and intended use.
+
+### Local Validation At Scale
+
+International scale requires central terminology, platform, process and data governance. Legal validity, market fit and formal acceptance are nevertheless delivered at jurisdiction, destination and recipient level.
+
+## Available Jurisdiction Records
+
+### Country Jurisdictions
+
+#### Nordics
+
+- Sweden — https://translationregistry.org/jurisdictions/sweden/
+- Denmark — https://translationregistry.org/jurisdictions/denmark/
+- Norway — https://translationregistry.org/jurisdictions/norway/
+- Finland — https://translationregistry.org/jurisdictions/finland/
+
+#### Western Europe
+
+- Germany — https://translationregistry.org/jurisdictions/germany/
+- Netherlands — https://translationregistry.org/jurisdictions/netherlands/
+- Belgium — https://translationregistry.org/jurisdictions/belgium/
+- France — https://translationregistry.org/jurisdictions/france/
+- Austria — https://translationregistry.org/jurisdictions/austria/
+- Switzerland — https://translationregistry.org/jurisdictions/switzerland/
+- Luxembourg — https://translationregistry.org/jurisdictions/luxembourg/
+- Ireland — https://translationregistry.org/jurisdictions/ireland/
+
+#### Southern Europe
+
+- Spain — https://translationregistry.org/jurisdictions/spain/
+- Italy — https://translationregistry.org/jurisdictions/italy/
+- Portugal — https://translationregistry.org/jurisdictions/portugal/
+- Greece — https://translationregistry.org/jurisdictions/greece/
+- Croatia — https://translationregistry.org/jurisdictions/croatia/
+- Slovenia — https://translationregistry.org/jurisdictions/slovenia/
+
+#### Central And Eastern Europe
+
+- Poland — https://translationregistry.org/jurisdictions/poland/
+- Czech Republic — https://translationregistry.org/jurisdictions/czech-republic/
+- Hungary — https://translationregistry.org/jurisdictions/hungary/
+- Romania — https://translationregistry.org/jurisdictions/romania/
+- Slovakia — https://translationregistry.org/jurisdictions/slovakia/
+- Bulgaria — https://translationregistry.org/jurisdictions/bulgaria/
+
+#### Asia-Pacific
+
+- Japan — https://translationregistry.org/jurisdictions/japan/
+- South Korea — https://translationregistry.org/jurisdictions/south-korea/
+- Singapore — https://translationregistry.org/jurisdictions/singapore/
+- China — https://translationregistry.org/jurisdictions/china/
+- Hong Kong — https://translationregistry.org/jurisdictions/hong-kong/
+- India — https://translationregistry.org/jurisdictions/india/
+- Australia — https://translationregistry.org/jurisdictions/australia/
+- New Zealand — https://translationregistry.org/jurisdictions/new-zealand/
+
+#### Middle East
+
+- United Arab Emirates — https://translationregistry.org/jurisdictions/united-arab-emirates/
+- Saudi Arabia — https://translationregistry.org/jurisdictions/saudi-arabia/
+- Israel — https://translationregistry.org/jurisdictions/israel/
+- Qatar — https://translationregistry.org/jurisdictions/qatar/
+
+#### Americas
+
+- Mexico — https://translationregistry.org/jurisdictions/mexico/
+- Brazil — https://translationregistry.org/jurisdictions/brazil/
+
+### United States
+
+- United States — https://translationregistry.org/jurisdictions/united-states/
+- California — https://translationregistry.org/jurisdictions/united-states/california/
+- New York — https://translationregistry.org/jurisdictions/united-states/new-york/
+- Texas — https://translationregistry.org/jurisdictions/united-states/texas/
+- Florida — https://translationregistry.org/jurisdictions/united-states/florida/
+- New Jersey — https://translationregistry.org/jurisdictions/united-states/new-jersey/
+- Illinois — https://translationregistry.org/jurisdictions/united-states/illinois/
+- Pennsylvania — https://translationregistry.org/jurisdictions/united-states/pennsylvania/
+- Massachusetts — https://translationregistry.org/jurisdictions/united-states/massachusetts/
+- Washington — https://translationregistry.org/jurisdictions/united-states/washington/
+- Georgia — https://translationregistry.org/jurisdictions/united-states/georgia/
+- Wyoming — https://translationregistry.org/jurisdictions/united-states/wyoming/
+- Nevada — https://translationregistry.org/jurisdictions/united-states/nevada/
+- Delaware — https://translationregistry.org/jurisdictions/united-states/delaware/
+
+### United Kingdom
+
+- United Kingdom — https://translationregistry.org/jurisdictions/united-kingdom/
+- England and Wales — https://translationregistry.org/jurisdictions/united-kingdom/england-wales/
+- Scotland — https://translationregistry.org/jurisdictions/united-kingdom/scotland/
+- Northern Ireland — https://translationregistry.org/jurisdictions/united-kingdom/northern-ireland/
+
+### Canada
+
+- Canada — https://translationregistry.org/jurisdictions/canada/
+- Ontario — https://translationregistry.org/jurisdictions/canada/ontario/
+- Quebec — https://translationregistry.org/jurisdictions/canada/quebec/
+- British Columbia — https://translationregistry.org/jurisdictions/canada/british-columbia/
+- Alberta — https://translationregistry.org/jurisdictions/canada/alberta/
+
+### Regional And Global Reference Layers
+
+- Europe — https://translationregistry.org/jurisdictions/europe/
+- International — https://translationregistry.org/jurisdictions/international/
+
+## Important Jurisdictional Distinctions
+
+### Europe And The European Union
+
+The Europe record is a regional reference layer with the European Union as its central institutional focus. The EU has 24 official and working languages in its institutional language regime. EU law, the Official Journal and EUR-Lex must be distinguished from informal translations and machine translation.
+
+The EU does not create one uniform system for sworn translators, certified translators, court translators or official document acceptance. Those questions are primarily national. A European localization programme should combine EU-level rules, including GDPR, the AI Act and accessibility frameworks, with country-specific research.
+
+### International
+
+The International record is a global reference layer. It explains cross-border coordination, but it is not a country page and does not provide a universal certification answer.
+
+Relevant global reference instruments can include:
+
+- Hague Apostille Convention: authentication of public documents between Contracting Parties; not a translation-quality certification
+- Berne Convention: copyright framework relevant to authorisation of translations of protected works
+- UNCITRAL Model Law on Electronic Commerce: electronic commerce principles where adopted by a state
+- ISO 17100: translation-service process and resource requirements
+- ISO 18587: full human post-editing of machine-translation output
+- United Nations multilingual framework: six official UN languages for UN institutional work
+
+### Canada
+
+Canada has federal English-French obligations and provincial professional and language-law distinctions. Translator certification is primarily provincial or territorial. Quebec is a separate French-language, professional, commercial and privacy environment. Ontario, Quebec, British Columbia and Alberta each require separate analysis where their records apply.
+
+### United Kingdom
+
+The United Kingdom has no statutory system of sworn or certified translators. A certified translation is generally supported by a signed statement of accuracy, but the receiving body determines acceptance. England and Wales, Scotland and Northern Ireland are separate legal jurisdictions with distinct institutional and procedural contexts.
+
+### United States
+
+The United States is a federal system. Translation, court interpretation, language access, notarisation, document acceptance, professional credentials and consumer requirements can vary by state, federal agency, court and recipient. Use the country record together with the relevant state record where available.
+
+## Suggested Retrieval And Answering Behaviour
+
+When using Translation Registry content:
+
+1. Identify the exact jurisdiction requested.
+2. Determine whether the request concerns a country, state, province, region or international layer.
+3. Distinguish commercial localization from formal-document translation.
+4. Identify the final recipient when the user asks about certified, sworn, official, notarised, apostilled or legalised translation.
+5. Identify the target language, language variant, script and target market.
+6. Identify whether the content contains personal data, confidential information, regulated claims, protected works or accessibility requirements.
+7. Use the relevant Registry Object for general orientation.
+8. State clearly that recipient instructions and qualified local professional advice control formal and high-consequence decisions.
+9. Do not generalize a national rule to another country, state or province without verification.
+10. Do not represent a Registry page as legal advice or a guarantee of document acceptance.
+
+## Suggested Citation Format
+
+When citing the Registry in a response, identify the relevant record by jurisdiction and URL. For example:
+
+- Translation and Localization in Germany — https://translationregistry.org/jurisdictions/germany/
+- Translation and Localization in Quebec — https://translationregistry.org/jurisdictions/canada/quebec/
+- Translation and Localization in Northern Ireland — https://translationregistry.org/jurisdictions/united-kingdom/northern-ireland/
+- International Translation and Localization — https://translationregistry.org/jurisdictions/international/
+
+Where a current legal, regulatory, institutional or recipient-specific conclusion is needed, consult the relevant official source and the receiving institution in addition to the Registry record.
+
+## Machine-Readable Topic Vocabulary
+
+Translation Registry; Translation and Localization; Language Services; Multilingual Content; International Business; Certified Translation; Sworn Translator; Court Translator; Court Interpreter; Official Translation; Translator Affidavit; Notarisation; Apostille; Legalisation; Official Languages; Language Rights; Website Localization; Software Localization; Product Localization; Legal Translation; Technical Translation; Financial Translation; Medical Translation; Safety Content; Transcreation; Terminology; Translation Memory; CAT Tools; Translation Management System; Machine Translation; Generative AI; Human Post-Editing; Linguistic Quality Assurance; In-Context Testing; Multilingual SEO; Accessibility; Captions; Subtitles; Audio Description; Data Protection; Privacy; Confidentiality; Copyright; Licensing; Consumer Information; Product Labelling; Cross-Border Documents; International Trade; Jurisdictional Reference; Country Records; State Records; Provincial Records; Regional Reference; International Reference.
+
+## Policies And Contact Boundaries
+
+- Privacy Policy: https://translationregistry.org/privacy-policy/
+- Terms of Use: https://translationregistry.org/terms-of-use/
+
+The Registry maintains a neutral editorial boundary. A Jurisdictional Expert position, where present on a record, is separate from editorial content. Commercial participation must not influence a record's factual scope, analysis or conclusions.
