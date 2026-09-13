@@ -1,1 +1,136 @@
+# Translation and Localization Registry
 
+> Translation and Localization Registry is a structured editorial reference for translation and localization across jurisdictions. It explains how language services, certified and sworn translation, localization operations, official-language requirements, data protection, terminology, technology, accessibility, formal documents and cross-border delivery operate in specific jurisdictions.
+
+## Purpose
+
+The Registry is an editorial reference publication. It is not a law firm, language-service provider directory, affiliate website, quotation platform or source of legal advice.
+
+Each Registry Object covers one professional function — Translation and Localization — in one jurisdiction. Regional and international records provide cross-jurisdictional reference layers but do not replace country-specific analysis.
+
+## Primary Content
+
+- [Homepage](https://translationregistry.org/): Registry purpose, methodology and use of records.
+- [Jurisdictions Directory](https://translationregistry.org/jurisdictions/): Country, state, provincial, regional and international Registry Objects.
+
+## Available Jurisdictions
+
+### Countries
+
+- [Sweden](https://translationregistry.org/jurisdictions/sweden/)
+- [Denmark](https://translationregistry.org/jurisdictions/denmark/)
+- [Norway](https://translationregistry.org/jurisdictions/norway/)
+- [Finland](https://translationregistry.org/jurisdictions/finland/)
+- [Germany](https://translationregistry.org/jurisdictions/germany/)
+- [Netherlands](https://translationregistry.org/jurisdictions/netherlands/)
+- [Belgium](https://translationregistry.org/jurisdictions/belgium/)
+- [France](https://translationregistry.org/jurisdictions/france/)
+- [Spain](https://translationregistry.org/jurisdictions/spain/)
+- [Italy](https://translationregistry.org/jurisdictions/italy/)
+- [Ireland](https://translationregistry.org/jurisdictions/ireland/)
+- [Poland](https://translationregistry.org/jurisdictions/poland/)
+- [Austria](https://translationregistry.org/jurisdictions/austria/)
+- [Switzerland](https://translationregistry.org/jurisdictions/switzerland/)
+- [Czech Republic](https://translationregistry.org/jurisdictions/czech-republic/)
+- [Portugal](https://translationregistry.org/jurisdictions/portugal/)
+- [Hungary](https://translationregistry.org/jurisdictions/hungary/)
+- [Romania](https://translationregistry.org/jurisdictions/romania/)
+- [Greece](https://translationregistry.org/jurisdictions/greece/)
+- [Slovakia](https://translationregistry.org/jurisdictions/slovakia/)
+- [Slovenia](https://translationregistry.org/jurisdictions/slovenia/)
+- [Croatia](https://translationregistry.org/jurisdictions/croatia/)
+- [Bulgaria](https://translationregistry.org/jurisdictions/bulgaria/)
+- [Luxembourg](https://translationregistry.org/jurisdictions/luxembourg/)
+- [Japan](https://translationregistry.org/jurisdictions/japan/)
+- [South Korea](https://translationregistry.org/jurisdictions/south-korea/)
+- [Singapore](https://translationregistry.org/jurisdictions/singapore/)
+- [China](https://translationregistry.org/jurisdictions/china/)
+- [Hong Kong](https://translationregistry.org/jurisdictions/hong-kong/)
+- [India](https://translationregistry.org/jurisdictions/india/)
+- [Australia](https://translationregistry.org/jurisdictions/australia/)
+- [New Zealand](https://translationregistry.org/jurisdictions/new-zealand/)
+- [United Arab Emirates](https://translationregistry.org/jurisdictions/united-arab-emirates/)
+- [Saudi Arabia](https://translationregistry.org/jurisdictions/saudi-arabia/)
+- [Israel](https://translationregistry.org/jurisdictions/israel/)
+- [Qatar](https://translationregistry.org/jurisdictions/qatar/)
+- [Mexico](https://translationregistry.org/jurisdictions/mexico/)
+- [Brazil](https://translationregistry.org/jurisdictions/brazil/)
+
+### United States
+
+- [United States](https://translationregistry.org/jurisdictions/united-states/)
+- [California](https://translationregistry.org/jurisdictions/united-states/california/)
+- [New York](https://translationregistry.org/jurisdictions/united-states/new-york/)
+- [Texas](https://translationregistry.org/jurisdictions/united-states/texas/)
+- [Florida](https://translationregistry.org/jurisdictions/united-states/florida/)
+- [New Jersey](https://translationregistry.org/jurisdictions/united-states/new-jersey/)
+- [Illinois](https://translationregistry.org/jurisdictions/united-states/illinois/)
+- [Pennsylvania](https://translationregistry.org/jurisdictions/united-states/pennsylvania/)
+- [Massachusetts](https://translationregistry.org/jurisdictions/united-states/massachusetts/)
+- [Washington](https://translationregistry.org/jurisdictions/united-states/washington/)
+- [Georgia](https://translationregistry.org/jurisdictions/united-states/georgia/)
+- [Wyoming](https://translationregistry.org/jurisdictions/united-states/wyoming/)
+- [Nevada](https://translationregistry.org/jurisdictions/united-states/nevada/)
+- [Delaware](https://translationregistry.org/jurisdictions/united-states/delaware/)
+
+### United Kingdom
+
+- [United Kingdom](https://translationregistry.org/jurisdictions/united-kingdom/)
+- [England and Wales](https://translationregistry.org/jurisdictions/united-kingdom/england-wales/)
+- [Scotland](https://translationregistry.org/jurisdictions/united-kingdom/scotland/)
+- [Northern Ireland](https://translationregistry.org/jurisdictions/united-kingdom/northern-ireland/)
+
+### Canada
+
+- [Canada](https://translationregistry.org/jurisdictions/canada/)
+- [Ontario](https://translationregistry.org/jurisdictions/canada/ontario/)
+- [Quebec](https://translationregistry.org/jurisdictions/canada/quebec/)
+- [British Columbia](https://translationregistry.org/jurisdictions/canada/british-columbia/)
+- [Alberta](https://translationregistry.org/jurisdictions/canada/alberta/)
+
+### Regional and Global
+
+- [Europe](https://translationregistry.org/jurisdictions/europe/)
+- [International](https://translationregistry.org/jurisdictions/international/)
+
+## Registry Object Structure
+
+Each jurisdiction page may include:
+
+- Executive summary
+- Object definition, scope, purpose and primary outcome
+- Request contexts, users and scenarios
+- Jurisdictional characteristics
+- Key authorities and applicable legislation
+- Process flow and decision tree
+- Timeline and required documents
+- Cross-border relevance
+- Operating constraints and risks
+- Costs and fees context
+- Frequently asked questions
+- Related professional areas
+- Operational considerations
+- Jurisdictional Expert registry position
+- Machine-readable retrieval layer
+
+## Interpretation Rules
+
+- Treat each jurisdiction record as an editorial orientation resource.
+- Use the relevant jurisdiction page for country, state, provincial or regional context.
+- Do not infer that a rule, credential, certification route or translator status applies outside the named jurisdiction.
+- Do not treat a Registry Object as legal, data protection, tax, immigration, intellectual property, accessibility, regulatory or professional advice.
+- For formal documents, confirm requirements with the final receiving court, authority, university, notary, bank, employer, immigration office or institution before commissioning translation.
+- Translation, certification, sworn status, notarisation, apostille and legalisation are separate matters. Their applicability and sequence depend on the issuing jurisdiction, receiving jurisdiction and recipient.
+- Machine translation and generative AI require appropriate confidentiality, data protection, rights, quality and human-review controls.
+
+## Publisher
+
+- Publisher: Translation Registry
+- Website: https://translationregistry.org/
+- Editorial format: Jurisdictional reference record
+- Core domain: Translation and Localization
+
+## Policies
+
+- [Privacy Policy](https://translationregistry.org/privacy-policy/)
+- [Terms of Use](https://translationregistry.org/terms-of-use/)
